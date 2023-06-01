@@ -25,8 +25,8 @@
 <div align="center">
   <a href="https://github.com/tiagocomba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocomba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=tiagocomba&theme=dark&locale=es" />
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocomba&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+ 
 </div>
   
 
