@@ -5,7 +5,7 @@
   
   <h1 align="center">🆃🅸🅰🅶🅾 🅲🅾🅼🅱🅰</h1>
   
-<h3>Estudiante apasionado por el front-end y la ciberseguridad. Me gusta trabajar con HTML, CSS y JavaScript, y busco aprender sobre seguridad. Abierto a   colaboraciones y charlas sobre programación y ciberseguridad. ¡Gracias por visitar mi perfil!</h3
+<h3>Estudiante apasionado por el front-end y la ciberseguridad. Me gusta realizar paginas web estáticas y dinámicas, y busco aprender sobre seguridad. Abierto a   colaboraciones y charlas sobre programación y ciberseguridad. ¡Gracias por visitar mi perfil!</h3
   
 </div>
 
