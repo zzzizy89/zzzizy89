@@ -1,7 +1,7 @@
 ---
 <div align="center">
   
-  <img align="center" width="1000" src="/img/banner.png">
+  <img align="center" width="1000" src="/img/bannercode.png">
   
   <h1 align="center">🆃🅸🅰🅶🅾 🅲🅾🅼🅱🅰</h1>
   
