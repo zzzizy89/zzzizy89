@@ -4,13 +4,10 @@
   <img align="center" width="1000" src="/img/comba-code.png">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=20&center=true&vCenter=true&width=1000&lines=𝗛𝗶,+𝗠𝘆+𝗻𝗮𝗺𝗲+𝗶𝘀+𝒯𝒾𝒶𝑔𝑜+𝒞𝑜𝓂𝒷𝒶;𝗜'𝗺+𝟭𝟳+𝘆𝗲𝗮𝗿𝘀+𝗼𝗹𝗱;𝗜'𝗺+𝗳𝗿𝗼𝗺+𝗔𝗿𝗴𝗲𝗻𝘁𝗶𝗻𝗮;𝗜'𝗺+𝗮+𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿+𝘀𝗰𝗶𝗲𝗻𝗰𝗲+𝘀𝘁𝘂𝗱𝗲𝗻𝘁;𝗕𝗲+𝗪𝗲𝗹𝗰𝗼𝗺𝗲!+:%29)](https://git.io/typing-svg)
-
-  
-<h3>Estudiante apasionado por el front-end y la ciberseguridad. Me gusta realizar paginas web estáticas y dinámicas, y busco aprender sobre seguridad. Abierto a   colaboraciones y charlas sobre programación y ciberseguridad. ¡Gracias por visitar mi perfil!</h3
   
 </div>
 
-<br/>
+<br>
 
 <div align="center"> 
   
