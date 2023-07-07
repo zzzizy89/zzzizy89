@@ -10,10 +10,11 @@
 <br>
 
 <div align="center"> 
-  
- <a href="https://www.youtube.com/channel/UCGJdMccO88cKvxEJ63RU-Qg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
-   <a href="https://www.instagram.com/___comba___/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=black&style=for-the-badge" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-comba-8b522226a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>  
+
+<a href="https://www.instagram.com/comba.code/" target="_blank"><img align="center" alt="tiagocomba | Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/tiago-comba-8b522226a/" target="_blank"><img align="center" alt="tiagocomba| LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+
   
 </div> 
   
