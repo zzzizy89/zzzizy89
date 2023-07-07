@@ -11,8 +11,8 @@
 
 <div align="center"> 
 
-<a href="https://www.instagram.com/comba.code/" target="_blank"><img align="center" alt="tiagocomba | Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/tiago-comba-8b522226a/" target="_blank"><img align="center" alt="tiagocomba| LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/comba.code/" target="_blank"><img align="center" alt="tiagocomba | Instagram" width="30px" src="https://github.com/tiagocomba/iconos-social/blob/main/insta.svg" />
+<a href="https://www.linkedin.com/in/tiago-comba-8b522226a/" target="_blank"><img align="center" alt="tiagocomba| LinkedIn" width="30px" src="https://github.com/tiagocomba/iconos-social/blob/main/linkedin.svg" />
 
 
   
