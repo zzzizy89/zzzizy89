@@ -24,7 +24,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/tiagocomba/tiagocomba/blob/main/img/gato.jpg" alt="tiagocomba" width="320" /> 
+<img align="left" src="https://github.com/tiagocomba/tiagocomba/blob/main/img/green.jpg" alt="tiagocomba" width="420" /> 
 
 ```csharp
 tiagocomba@github
