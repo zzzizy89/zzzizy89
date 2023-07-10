@@ -19,7 +19,8 @@
   
 </div> 
   
-  ---
+<img  src="img/borderseperator.gif">
+
   ```zsh
 > neofetch
 ```
