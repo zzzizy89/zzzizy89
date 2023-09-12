@@ -7,7 +7,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/tiagocomba/tiagocomba/blob/main/img/green.jpg" alt="tiagocomba" width="420" /> 
+<img align="left" src="https://github.com/tiagocomba/tiagocomba/blob/main/img/moon.jpg" alt="tiagocomba" width="420" /> 
 
 ```csharp
 tiagocomba@github
