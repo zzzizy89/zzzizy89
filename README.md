@@ -7,18 +7,18 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/tiagocomba/tiagocomba/blob/main/img/moon.jpg" alt="tiagocomba" width="420" /> 
+<img align="left" src="https://github.com/tiagocomba/tiagocomba/blob/main/img/marco-xu-zcvWUNrmPBQ-unsplash(1).jpg" alt="tiagocomba" width="420" /> 
 
 ```csharp
 tiagocomba@github
 -------------------------
-𝗢𝗦: Manjaro x86_64
-𝗦𝗵𝗲𝗹𝗹: zsh 5.8
-𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Argentina,Cba
-𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Codeigniter,React
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: JavaScript, HTML, CSS
-𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: TypeScript, Python, Angular, Javascript
-𝗛𝗼𝗯𝗯𝗶𝗲𝘀: Program, Gym, Gaming, Draw
+𝗢𝗦: ArchLinux x86_64.
+𝗦𝗵𝗲𝗹𝗹: zsh 5.8.
+𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Argentina,Cba.
+𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Codeigniter,React.
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: JavaScript, HTML, CSS.
+𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: TypeScript, Python, Angular, Javascript, MakeCode , Unitiy.
+𝗛𝗼𝗯𝗯𝗶𝗲𝘀: Program, Chalistenic, Draw, Read.
 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: tiago.dev#9196
 ```
 <p align="left">
