@@ -12,12 +12,12 @@
 ```csharp
 tiagocomba@github
 -------------------------
-𝗢𝗦: ArchLinux x86_64.
+𝗢𝗦: Parrot Linux x86_64.
 𝗦𝗵𝗲𝗹𝗹: zsh 5.8.
 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻: Argentina,Cba.
 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Codeigniter,React.
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: JavaScript, HTML, CSS.
-𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: TypeScript, Python, Angular, Javascript, MakeCode , Unitiy.
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Bash, Python
+𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Hackin etico.
 𝗛𝗼𝗯𝗯𝗶𝗲𝘀: Program, Chalistenic, Draw, Read.
 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: tiago.dev#9196
 ```
