@@ -7,7 +7,8 @@
 > neofetch
 ```
 
-<img align="left" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif?cid=790b76119bvh3b8ith5p4qy5zzad0hbkwd2qrrp0eafp16hg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="tiagocomba" width="420" /> 
+<img align="left" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif?cid=790b76119bvh3b8ith5p4qy5zzad0hbkwd2qrrp0eafp16hg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="tiagocomba" width="407"/> 
+
 
 ```csharp
 tiagocomba@github
